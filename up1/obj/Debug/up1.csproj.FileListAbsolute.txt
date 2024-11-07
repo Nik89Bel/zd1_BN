@@ -1,0 +1,7 @@
+C:\Users\belih\source\repos\2024.2\up1\up1\bin\Debug\up1.exe.config
+C:\Users\belih\source\repos\2024.2\up1\up1\bin\Debug\up1.exe
+C:\Users\belih\source\repos\2024.2\up1\up1\bin\Debug\up1.pdb
+C:\Users\belih\source\repos\2024.2\up1\up1\obj\Debug\up1.csproj.AssemblyReference.cache
+C:\Users\belih\source\repos\2024.2\up1\up1\obj\Debug\up1.csproj.CoreCompileInputs.cache
+C:\Users\belih\source\repos\2024.2\up1\up1\obj\Debug\up1.exe
+C:\Users\belih\source\repos\2024.2\up1\up1\obj\Debug\up1.pdb
