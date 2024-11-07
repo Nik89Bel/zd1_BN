@@ -1,0 +1,10 @@
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\bin\Debug\up1.2.exe.config
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\bin\Debug\up1.2.exe
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\bin\Debug\up1.2.pdb
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1.2.csproj.AssemblyReference.cache
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1._2.Form1.resources
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1._2.Properties.Resources.resources
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1.2.csproj.GenerateResource.cache
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1.2.csproj.CoreCompileInputs.cache
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1.2.exe
+C:\Users\belih\source\repos\2024.2\up1.2\up1.2\obj\Debug\up1.2.pdb
